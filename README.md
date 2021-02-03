@@ -7,4 +7,4 @@ and
 npm start
 ```
 
-<img src="https://i.hizliresim.com/ImGSUL.png"/>
+<img src="https://i.hizliresim.com/ImGSUL.png" width="500" height="600"/>
