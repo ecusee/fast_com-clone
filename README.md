@@ -6,3 +6,5 @@ and
 ```
 npm start
 ```
+
+<img src="https://i.hizliresim.com/ImGSUL.png"/>
